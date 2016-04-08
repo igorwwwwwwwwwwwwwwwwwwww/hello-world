@@ -1,1 +1,2 @@
 script: echo Hello World
+sudo: required
