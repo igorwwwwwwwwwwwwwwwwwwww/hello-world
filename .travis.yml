@@ -1,2 +1,4 @@
 script: echo Hello World
-sudo: required
+language: ruby
+rvm:
+ - 2.3
