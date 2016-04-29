@@ -1,4 +1,0 @@
-script: echo Hello World
-language: ruby
-rvm:
- - 2.3.1
