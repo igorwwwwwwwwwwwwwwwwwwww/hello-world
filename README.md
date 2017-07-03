@@ -1,3 +1,3 @@
 # hello-world
 
-This is an amazing hello world project. It's truly incredible.
+This is an amazing hello world project. It's truly incredible. The best.
