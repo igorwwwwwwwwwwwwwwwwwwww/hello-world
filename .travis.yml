@@ -19,4 +19,6 @@ env:
 - N=14
 - N=15
 
-script: 'yes | head -c $((1024*1024*2))'
+script:
+- 'stty -inlcr'
+- 'yes | head -c $((1024*1024*2))'
