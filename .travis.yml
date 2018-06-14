@@ -1,3 +1,3 @@
 language: ruby
 sudo: true
-script: 'yes | head -n 20 | hexdump -c'
+script: stty
