@@ -1,3 +1,4 @@
 sudo: true
 language: ruby
 script: echo Hello World
+debug_trace: true
