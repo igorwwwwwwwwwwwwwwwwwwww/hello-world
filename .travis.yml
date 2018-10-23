@@ -1,3 +1,18 @@
+# https://www.ruby-lang.org/en/downloads/releases/
 language: ruby
 group: standalone
+rvm:
+- 2.5.3
+- 2.5.2
+- 2.4.5
+- 2.3.8
+- 2.5.1
+- 2.4.4
+- 2.3.7
+env:
+  matrix:
+    - INDEX=0
+    - INDEX=1
+    - INDEX=2
+    - INDEX=3
 script: echo Hello World
