@@ -1,2 +1,5 @@
 language: ruby
-script: systemd-analyze
+script:
+- systemd-analyze
+- cat /var/log/boot.log
+- cat /var/log/dmesg
