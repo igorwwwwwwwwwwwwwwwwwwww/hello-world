@@ -1,3 +1,3 @@
 language: ruby
 group: standalone
-script: echo Hello World
+script: echo $http_proxy
